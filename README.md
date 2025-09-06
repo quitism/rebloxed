@@ -1,2 +1,11 @@
 # rebloxed
-a project that is meant to **re**place, **re**do and **re**novate roblox
+project that aims to recreate roblox
+# goals
+- embed luau
+- utilize vulkan as a renderer
+- make a physics system
+- recreate roblox instances, simple services and architectures
+- recreate client-server communication
+- release local build for testing
+- more here
+  
